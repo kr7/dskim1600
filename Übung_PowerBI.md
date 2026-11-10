@@ -9,3 +9,4 @@
 7. Falls Sie Metriken zu Ihrem DashBoard brauchen, definieren Sie Ihre Metriken (mit DAX Codes)!
 8. Erstellen Sie den PowerBI Bericht (DashBoard), der mit Ihren Fragestellungen im Einklang ist! 
 9. Verifizieren Sie Ihr DashBoard wie folgt: Sie sollen einige (nicht alle!) vom Dashboard angezeigte Zahlen auch im Excel ausrechnen, um sicherzustellen, dass tatsächlich die gewünschten Größen berechnet werden.
+10. Schreiben Sie eine Zusammenfassung (Management Summary) über das Projekt!
